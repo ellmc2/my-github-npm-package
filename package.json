@@ -1,5 +1,5 @@
 {
-  "name": "my-github-npm-package",
+  "name": "@ellmc2/my-github-npm-package",
   "private": false,
   "version": "0.0.1",
   "type": "module",
