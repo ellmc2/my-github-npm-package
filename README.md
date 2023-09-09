@@ -38,5 +38,19 @@ pnpm create vite my-github-npm-package --template react-ts
 
 ```bash
 npm login --registry=https://npm.pkg.github.com
+
+# 输入github username 和 Personal access tokens
+
+npm publish
 ```
+
+
+
+## 参考
+
+1. [Create Your First Github Package](https://dev.to/dalenguyen/create-your-first-github-package-564f)
+
+2. [How to publish a new npm package on the GitHub Registry, and what is the difference between NPM and GitHub Registry?](https://medium.com/frontendweb/how-to-publish-a-new-npm-package-on-the-github-registry-and-what-is-the-difference-between-npm-and-dd63452aed3e)
+3. [Host and Publish NPM package on GitHub](https://windix.medium.com/host-and-publish-npm-package-on-github-bb419a2acfd3)
+4. [Setting up GitHub packages for NPM](https://itnext.io/setting-up-github-packages-for-npm-2bc9f8e4b11e)
 
