@@ -34,3 +34,9 @@ If you are developing a production application, we recommend updating the config
 pnpm create vite my-github-npm-package --template react-ts
 ```
 
+## 发布项目
+
+```bash
+npm login --registry=https://npm.pkg.github.com
+```
+

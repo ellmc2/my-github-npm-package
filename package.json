@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ellmc2/vite-react-ts-playground.git"
+    "url": "https://github.com/ellmc2/my-github-npm-package.git"
   },
   "main": "my-github-npm-package.cjs",
   "module": "my-github-npm-package.js",
@@ -31,5 +31,8 @@
     "eslint-plugin-react-refresh": "^0.4.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.5"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   }
 }
